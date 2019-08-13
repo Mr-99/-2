@@ -1,5 +1,5 @@
 #include <HT66F70A.H>
-#include "uart.h"//Ä£Äâ´®¿Ú
+#include "uart.h"
 #include "oled.h"
 void delay(unsigned char n);
 #define Speak_Bus _pg0
